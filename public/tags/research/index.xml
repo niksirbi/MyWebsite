@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research | </title>
+    <link>/tags/research/</link>
+      <atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>research</title>
+      <link>/tags/research/</link>
+    </image>
+    
+    <item>
+      <title>fMRI signatures of anesthesia-induced Burst Suppression</title>
+      <link>/project/bs/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/bs/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Deeply anesthetized and comatose states are often accompanied by a distinctive pattern of
+electroencephalographic activity, called “Burst Suppression”. This pattern’s underlying mechanism and
+functional significance remain largely unknown. I explore how Burst Suppression manifests itself in fMRi data
+obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>
+      <link>/project/medetomidine/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/medetomidine/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Medetomidine has become a popular choice for anesthetizing rats during long-lasting sessions of blood-oxygen-level dependent (BOLD) functional magnetic resonance imaging (fMRI). Despite this, it has not yet been thoroughly established how commonly reported fMRI readouts evolve over several hours of medetomidine anesthesia and how they are affected by the precise timing, dose, and route of administration. We used four different protocols of medetomidine administration to anesthetize rats for up to six hours and repeatedly evaluated somatosensory stimulus-evoked BOLD responses and resting state functional connectivity. We found that the temporal evolution of fMRI readouts strongly depended on the method of administration. Intravenous administration of a medetomidine bolus (0.05 mg/kg), combined with a subsequent continuous infusion (0.1 mg/kg/h), led to temporally stable measures of stimulus-evoked activity and functional connectivity throughout the anesthesia. Deviating from the above protocol—by omitting the bolus, lowering the medetomidine dose, or using the subcutaneous route—compromised the stability of these measures in the initial two-hour period. We conclude that both an appropriate protocol of medetomidine administration and a suitable timing of fMRI experiments are crucial for obtaining consistent results. These factors should be considered for the design and interpretation of future rat fMRI studies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

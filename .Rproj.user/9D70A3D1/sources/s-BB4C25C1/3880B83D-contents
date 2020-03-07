@@ -1,0 +1,136 @@
+---
+name: Nikoloz
+surname: Sirmpilatze
+profilepic: avatar.jpg
+#aboutme:
+headcolor: 414141 # 33b38d 
+position: "PhD student, German Primate Center"
+address: "Kellnerweg 4, 37077 , Göttingen, Germany"
+phone: +49 176 36123721
+#www: nikosirmpilatze.com 
+email: "niko.sirbiladze@gmail.com"
+twitter: niksirbi
+github: niksirbi
+#linkedin:
+date: "`r format(Sys.time(), '%B %Y')`" 
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD in Neuroimaging", "2017-present", "German Primate Center, Functional Imaging Lab", "Göttingen, Germany",
+  "MSc in Neuroscience (Grade 1.1)", "2015-2017", "IMPRS Neurosciences, Georg-August University of Göttingen", "Göttingen, Germany",
+  "Medical degree (Grade 9.43/10)", "2009-2015", "Aristotle University of Thessaloniki", "Thessaloniki, Greece"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Reseach Projects
+
+```{r}
+tribble(
+  ~ What, ~ Year, ~ Title, ~ Where,
+  "PhD Project - Functional Imaging Lab", "May 2017-present", "fMRI mapping of anesthesia-induced burst suppression in multiple mammalian species", "German Primate Center",
+  "MSc project - Functional Imaging Lab", "Oct 2016-Apr 2017", "The temporal stability of fMRI measurements in medetomidine-anesthetized rats", "German Primate Center"
+#  "Lab rotation - Department of Cellular Neurobiology", "May-Jun 2016", "Characterization of thermosensitive neurons in the antenna of D. melanogaster using in-vivo calcium imaging", "University of Göttingen",
+#  "Lab rotation - Functional Imaging Lab", "Mar-Apr 2016", "Evaluation of 2D multi-band EPI imaging for increased brain coverage in a high resolution task-based fMRI study", "German Primate Center",
+ # "Lab rotation - Department of Neuropathology", "Jan-Feb 2016", "Animal models of demyelination: spontaneous autoimmune encephalomyelitis in mice and osmotic demyelination syndrome in rats", "University Medical Center Göttingen"
+) %>% 
+  detailed_entries(What, Year, Title, Where)
+```
+
+# Extracurricular courses
+
+```{r}
+tribble(
+  ~ What, ~ When, ~ With, ~ Where,
+  "3-day workshop", "Mar 2018", "Effective Scientific Communications Workshop", "GGNB graduate school",
+  "1-week course", "Feb 2018", "Introduction to Data Science", "GGNB graduate school",
+  "Online course", "Fecb-Mar 2018", "Neural networks and Deep Learning", "www.coursera.org",
+  "1-week course", "May 2017", "Regression Modelling", "German Primate Center") %>% 
+  detailed_entries(What, When, With, Where)
+```
+
+# Skills
+
+## Technical skills:
+  * Python: numpy, pandas, matplotlib, jupyter, nilearn, nipype
+  * Bash, R, git,\ \LaTeX
+  * Neuroimaging software: FSL, ANTS, AFNI, BrainVoyager
+    
+## Languages
+  * Greek (native)
+  * Georgian (native)
+  * English (fluent)
+  * German (B2)
+  * Russian (limited working proficiency)
+
+```{r pagebreak, results='asis'}
+cat('\\pagebreak')
+```
+
+# Teaching and Supervision
+```{r}
+tribble(
+  ~ What, ~ When, ~Title, ~Where,
+  "IMPRS Neurosciences MSc program", "2017-2019 (1 week/year)", "Tutorials and method courses: Intoduction to MRI/fMRI", "University of Göttingen",
+   "MSc Thesis of Dmytro Nesterenko", "Oct 2018-Mar 2019", "Resting state connectivity and negative BOLD responses", "University of Göttingen",
+  "Lab Rotation Project of Anna Liashenko", "Jan-Feb 2019", "Changes in resting state functional connectivity
+after the neurofeedback training of anterior midcingulate cortex (aMCC)", "University of Göttingen",
+ "Online course", "Jan-Mar 2013", "Community Teaching Assistant for Medical Neuroscience", "www.coursera.org",
+ "Laboratory of Descriptive Anatomy", "Feb-May 2011", "Teaching Assistant for Neuroanatomy", "Aristotle University of Thessaloniki"
+) %>% 
+  detailed_entries(What, When, Title, Where)
+```
+
+# Publications
+
+```{r}
+#::get_publications("vGwoc7oAAAAJ&hl") %>% 
+#  #filter(cites > 30) %>% 
+#  distinct(title, .keep_all = TRUE) %>%
+#  transmute(bibtype = "Article", author = as.character(author),
+#            title = as.character(title),
+#            journaltitle = as.character(journal), year, key = row_number()) %>% 
+#  RefManageR::as.BibEntry() %>% 
+#  RefManageR::WriteBib("sirmpilatze.bib")
+
+bibliography_entries("papers.bib")
+```
+
+# Conference Contributions (selected)
+
+```{r}
+bibliography_entries("conference_contributions.bib")
+```
+
+# Scholarships and Awards
+
+```{r}
+tribble(
+  ~ What, ~ When, ~ With,
+  "Magna cum Laude Merit Award", "May 2019", "27th Annual Meeting of the International Society for
+Magnetic Resonance in Medicine",
+  "Educational Stipend", "May 2019", "27th Annual Meeting of the International Society for
+Magnetic Resonance in Medicine",
+  "Student Support Program", "Oct 2017", "34th Annual Meeting of the European Society for Magnetic Resonance in Medicine and Biology",
+  "MSc Scholarship", "Oct 2015-Apr 2017", "German Academic Exchange Service (DAAD)",
+   "Undergraduate Distinction", "2009-2011", "State Scholarships Foundation of Greece(IKY)") %>% 
+  detailed_entries(What, When, With)
+```
+
+# Interests and Hobbies
+  
+* Open and reproducible science
+* Graphic design
+* Dancing to swing music
+* Playing the saxophone

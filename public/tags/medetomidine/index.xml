@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medetomidine | </title>
+    <link>/tags/medetomidine/</link>
+      <atom:link href="/tags/medetomidine/index.xml" rel="self" type="application/rss+xml" />
+    <description>medetomidine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>medetomidine</title>
+      <link>/tags/medetomidine/</link>
+    </image>
+    
+    <item>
+      <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>
+      <link>/publication_templates/example_preprint/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication_templates/example_preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

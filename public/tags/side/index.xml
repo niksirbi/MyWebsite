@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>side | </title>
+    <link>/tags/side/</link>
+      <atom:link href="/tags/side/index.xml" rel="self" type="application/rss+xml" />
+    <description>side</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>side</title>
+      <link>/tags/side/</link>
+    </image>
+    
+    <item>
+      <title>PyRat fMRI</title>
+      <link>/project/pyrat/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pyrat/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;PyRat_fMRI can get you from a 4D NIFTI file to an activation map in under 1 minute. It is meant for a quick inspection of activation maps, &lt;strong&gt;NOT&lt;/strong&gt; for formal analysis. See the &lt;a href=&#34;https://github.com/niksirbi/PyRat_fMRI&#34; target=&#34;_blank&#34;&gt;repository&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

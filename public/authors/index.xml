@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium</title>
+      <link>/authors/the-primate-data-exchange-prime-de-global-collaboration-workshop-and-consortium/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/the-primate-data-exchange-prime-de-global-collaboration-workshop-and-consortium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34; target=&#34;_blank&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
+I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Juergen Baudewig</title>
+      <link>/authors/juergen-baudewig/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/juergen-baudewig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susann Boretius</title>
+      <link>/authors/susann-boretius/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/susann-boretius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
