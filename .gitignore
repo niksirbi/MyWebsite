@@ -1,2 +1,3 @@
 # ignore an entire directory
 /public/
+.Rproj.user
