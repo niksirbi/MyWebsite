@@ -18,6 +18,6 @@ url_video: ""
 
 ## Summary
 Deeply anesthetized and comatose states are often accompanied by a distinctive pattern of
-electroencephalographic activity, called “Burst Suppression”. This pattern’s underlying mechanism and
+electroencephalographic activity called **Burst Suppression** (BS). This pattern’s underlying mechanism and
 functional significance remain largely unknown. I explore how Burst Suppression manifests itself in fMRi data
 obtained from from both humans and animals (non-human primates, rats).

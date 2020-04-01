@@ -24,7 +24,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fa"
   name = "Neuroimaging software"
-  description = "**FSL**, **ANTS**, AFNI, BrainVoyager"  
+  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer"  
   
 [[feature]]
   icon = "language"

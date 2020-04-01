@@ -1,5 +1,5 @@
 {
-    "path" : "~/ownCloud/MyWebsite/content/home",
+    "path" : "~/MyWebsite/static/files",
     "sortOrder" : [
         {
             "ascending" : true,
