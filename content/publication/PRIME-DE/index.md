@@ -21,7 +21,7 @@ tags:
 title: Accelerating the Evolution of Nonhuman Primate Neuroimaging
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S089662731931089X"
 url_poster: ""
 url_project: ""
 url_slides: ""
