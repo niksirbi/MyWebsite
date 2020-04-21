@@ -5,12 +5,86 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34; target=&#34;_blank&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
+I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alina Rueppel</title>
+      <link>/authors/alina-rueppel/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alina-rueppel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georg Hafner</title>
+      <link>/authors/georg-hafner/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/georg-hafner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jochen F Staiger</title>
+      <link>/authors/jochen-f-staiger/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jochen-f-staiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Guy</title>
+      <link>/authors/julien-guy/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/julien-guy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirko Witte</title>
+      <link>/authors/mirko-witte/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mirko-witte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oavel Truschow</title>
+      <link>/authors/oavel-truschow/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/oavel-truschow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakshit Dadarwal</title>
+      <link>/authors/rakshit-dadarwal/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rakshit-dadarwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susann Boretius</title>
+      <link>/authors/susann-boretius/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/susann-boretius/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium</title>
@@ -21,28 +95,10 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34; target=&#34;_blank&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
-I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Juergen Baudewig</title>
       <link>/authors/juergen-baudewig/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/juergen-baudewig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Susann Boretius</title>
-      <link>/authors/susann-boretius/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/susann-boretius/</guid>
       <description></description>
     </item>
     

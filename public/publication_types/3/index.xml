@@ -5,12 +5,20 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Circuits in the absence of cortical layers: increased callosal connectivity in reeler mice revealed by brain-wide input mapping of VIP neurons in barrel cortex</title>
+      <link>/publication/reeler/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reeler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>
