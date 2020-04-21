@@ -11,7 +11,7 @@ education:
     institution: University of Göttingen
     year: 2015-2017
   - course: Doctor of Medicine (MD)
-    institution: Aristotle Uiversity of Thessaloniki
+    institution: Aristotle University of Thessaloniki
     year: 2009-2015
 email: "nsirmpilatze@dpz.eu"
 interests:
