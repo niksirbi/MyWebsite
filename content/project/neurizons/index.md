@@ -31,5 +31,5 @@ url_video: ""
 ## About Neurizons
 Neurizons is a multidisciplinary neuroscience conference organized by the students of the [International Max Planck Research School (IMPRS) for Neurosciences](https://www.gpneuro.uni-goettingen.de/), in Göttingen. I have been part of the organizing committee since 2017 and have mainly taken care of the conference's graphic design.
 
-[Join us](https://www.neurizons.uni-goettingen.de/registration/) at the 9th biennial conference – Neurizons – ‘Networks grow. Ideas flow.’ which will take place on the 26th – 29th May 2020 at the Max Planck Institute for Biophysical chemistry in Göttingen, Germany. Attendance of talks is **free of charge**, but **registration is mandatory**.
+Neurizons 2020 took place online, due to the global Covid-19 pandemic. I took part in migrating the conference into a virtual platform - [crowdcast](https://www.crowdcast.io/). You can read about my main take-aways from this experience in this [twitter thread](https://twitter.com/niksirbi/status/1280875270510125056).
 
