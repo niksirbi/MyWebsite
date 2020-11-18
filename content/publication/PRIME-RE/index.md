@@ -55,6 +55,7 @@ publishDate: "2020-07-31T00:00:00Z"
 slides:
 summary:
 tags:
+- preprint
 title: "A collaborative resource platform for non-human primate neuroimaging"
 url_code: "https://github.com/PRIME-RE/prime-re.github.io"
 url_dataset: ""

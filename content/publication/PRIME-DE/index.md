@@ -18,6 +18,7 @@ publishDate: "2020-02-19T00:00:00Z"
 slides:
 summary:
 tags:
+- published
 title: Accelerating the Evolution of Nonhuman Primate Neuroimaging
 url_code: ""
 url_dataset: ""

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-512.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34; target=&#34;_blank&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
 I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.&lt;/p&gt;
@@ -23,17 +23,17 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     </item>
     
     <item>
-      <title>Alina Rueppel</title>
-      <link>/authors/alina-rueppel/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/alina-rueppel/</guid>
+      <title>Alina Rüppel</title>
+      <link>/authors/alina-ruppel/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alina-ruppel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Georg Hafner</title>
       <link>/authors/georg-hafner/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/georg-hafner/</guid>
       <description></description>
     </item>
@@ -41,7 +41,7 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     <item>
       <title>Jochen F Staiger</title>
       <link>/authors/jochen-f-staiger/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/jochen-f-staiger/</guid>
       <description></description>
     </item>
@@ -49,7 +49,7 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     <item>
       <title>Julien Guy</title>
       <link>/authors/julien-guy/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/julien-guy/</guid>
       <description></description>
     </item>
@@ -57,23 +57,23 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     <item>
       <title>Mirko Witte</title>
       <link>/authors/mirko-witte/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/mirko-witte/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oavel Truschow</title>
-      <link>/authors/oavel-truschow/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/oavel-truschow/</guid>
+      <title>Pavel Truschow</title>
+      <link>/authors/pavel-truschow/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pavel-truschow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rakshit Dadarwal</title>
       <link>/authors/rakshit-dadarwal/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/rakshit-dadarwal/</guid>
       <description></description>
     </item>
@@ -81,8 +81,248 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     <item>
       <title>Susann Boretius</title>
       <link>/authors/susann-boretius/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/susann-boretius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Messinger</title>
+      <link>/authors/adam-messinger/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/adam-messinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bastien Cagna</title>
+      <link>/authors/bastien-cagna/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/bastien-cagna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Jung</title>
+      <link>/authors/benjamin-jung/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caleb Sponheim</title>
+      <link>/authors/caleb-sponheim/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/caleb-sponheim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cirong Liu</title>
+      <link>/authors/cirong-liu/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cirong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claude Lepage</title>
+      <link>/authors/claude-lepage/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/claude-lepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Glen</title>
+      <link>/authors/daniel-glen/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-glen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel S. Margulies</title>
+      <link>/authors/daniel-s.-margulies/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-s.-margulies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo A. Garza-Villarreal</title>
+      <link>/authors/eduardo-a.-garza-villarreal/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/eduardo-a.-garza-villarreal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry C. Evrard</title>
+      <link>/authors/henry-c.-evrard/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/henry-c.-evrard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Merchant</title>
+      <link>/authors/hugo-merchant/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/hugo-merchant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakob Seidlitz</title>
+      <link>/authors/jakob-seidlitz/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jakob-seidlitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordy Tasserie</title>
+      <link>/authors/jordy-tasserie/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jordy-tasserie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Sein</title>
+      <link>/authors/julien-sein/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/julien-sein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katja Heuer</title>
+      <link>/authors/katja-heuer/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/katja-heuer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kep Kee Loh</title>
+      <link>/authors/kep-kee-loh/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kep-kee-loh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn Uhrig</title>
+      <link>/authors/lynn-uhrig/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lynn-uhrig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcello G.P. Rosa</title>
+      <link>/authors/marcello-g.p.-rosa/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marcello-g.p.-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael P. Milham</title>
+      <link>/authors/michael-p.-milham/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-p.-milham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Christiaan Klink</title>
+      <link>/authors/p.-christiaan-klink/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-christiaan-klink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pamela Garcia-Saldivar</title>
+      <link>/authors/pamela-garcia-saldivar/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pamela-garcia-saldivar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Taylor</title>
+      <link>/authors/paul-taylor/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Majka</title>
+      <link>/authors/piotr-majka/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/piotr-majka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Austin Benn</title>
+      <link>/authors/r.-austin-benn/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-austin-benn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renee Hartig</title>
+      <link>/authors/renee-hartig/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/renee-hartig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Toro</title>
+      <link>/authors/roberto-toro/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/roberto-toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rogier B. Mars</title>
+      <link>/authors/rogier-b.-mars/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rogier-b.-mars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Giavasis</title>
+      <link>/authors/steven-giavasis/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-giavasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Xu</title>
+      <link>/authors/ting-xu/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ting-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xindi Wang</title>
+      <link>/authors/xindi-wang/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xindi-wang/</guid>
       <description></description>
     </item>
     

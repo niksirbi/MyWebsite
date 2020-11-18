@@ -11,7 +11,8 @@ image:
   caption:
   focal_point: ""
   preview_only: false
-projects: [medetomidine]
+projects:
+- medetomidine
 publication: '*Scientific Reports, 9*(16673)'
 publication_short: "Sci Rep"
 publication_types:
@@ -20,6 +21,7 @@ publishDate: "2019-11-13T00:00:00Z"
 slides:
 summary:
 tags:
+- published
 title: Temporal stability of fMRI in medetomidine-anesthetized rats
 url_code: ""
 url_dataset: "https://openneuro.org/datasets/ds001981/versions/1.0.3"
