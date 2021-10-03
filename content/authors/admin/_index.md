@@ -44,6 +44,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Nikoloz (Niko) Sirmpilatze and I am a postdoctoral researcher at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the German Primate Center in Göttingen, Germany. I am interested in the effects of anesthesia on brain function -- a topic that I explore via functional Magnetic Resonance Imaging (fMRI) and in vivo 2-photon calcium imaging. I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
-I am a strong proponent of open and collaborative science. In my free time I enjoy dancing to swing music and playing the saxophone.
+My name is Nikoloz (Niko) Sirmpilatze and I am a postdoctoral researcher at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the German Primate Center in Göttingen, Germany. My research focuses on the effects of anesthesia on brain function – a topic that I explore with neuroimaging techniques, including functional Magnetic Imaging (fMRI) and in vivo 2‐photon calcium imaging. I collect and analyze data from multiple mammalian species – including humans, various non‐human primates and rats. I am particularly interested in the neural activity patterns that arise across various depths of anesthesia, either spontaneously or in reaction to sensory stimulation. I am a strong proponent of open and collaborative science. In my free time I enjoy dancing to swing music and playing the saxophone.
 
