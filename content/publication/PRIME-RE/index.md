@@ -43,6 +43,10 @@ image:
 links:
 - name: Website
   url: https://prime-re.github.io/
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/PRIME-RE/prime-re.github.io
 projects:
 - prime-re
 publication: "NeuroImage"
@@ -55,7 +59,7 @@ summary:
 tags:
 - published
 title: "A collaborative resource platform for non-human primate neuroimaging"
-url_code: "https://github.com/PRIME-RE/prime-re.github.io"
+url_code: ""
 url_dataset: ""
 url_pdf: ""
 url_poster: ""

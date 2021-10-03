@@ -13,6 +13,10 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/afids/afids-macaca
+- icon:
+  icon_pack:
+  name: Poster
+  url: https://afids.github.io/afids-macaca-ohbm2021/
 - icon: twitter
   icon_pack: fab
   name: Twitter
@@ -25,7 +29,7 @@ tags:
 title: "AFIDs-macaca"
 url_code: ""
 url_pdf: ""
-url_slides: "https://afids.github.io/afids-macaca-ohbm2021/"
+url_slides: ""
 url_video: ""
 ---
 

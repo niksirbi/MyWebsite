@@ -6,10 +6,10 @@ education:
   courses:
   - course: PhD in Neuroimaging
     institution: German Primate Center
-    year: May 2017 -- Sep 2021
+    year: May 2017 - Sep 2021
   - course: MSc in Neuroscience
     institution: University of Göttingen
-    year: Sep 2015 -- Apr 2017
+    year: Sep 2015 - Apr 2017
   - course: Medical Degree
     institution: Aristotle University of Thessaloniki
     year: Sep 2009 - Jul 2015

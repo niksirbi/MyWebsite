@@ -6,6 +6,9 @@ authors:
 - Susann Boretius
 date: "2019-11-13T00:00:00Z"
 doi: "10.1038/s41598-019-53144-y"
+links:
+- name: Dataset
+  url: https://openneuro.org/datasets/ds001981
 featured: true
 image:
   caption:
@@ -24,7 +27,7 @@ tags:
 - published
 title: Temporal stability of fMRI in medetomidine-anesthetized rats
 url_code: ""
-url_dataset: "https://openneuro.org/datasets/ds001981"
+url_dataset: ""
 url_pdf: ""
 url_poster: ""
 url_project: ""
