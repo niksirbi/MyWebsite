@@ -18,6 +18,7 @@ summary: Summa cum Liesel is a blog for sharing PhD experiences, advice, and sci
 
 tags:
 - collaborative
+- include
 title: Summa cum Liesel
 url_code: ""
 url_pdf: ""

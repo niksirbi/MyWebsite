@@ -20,6 +20,7 @@ links:
 summary: PRIME-RE (PRIMEatE Resource Exchange) aims to be the primary exchange platform for non-human primate neuroimaging data resources.
 tags:
 - collaborative
+- include
 title: PRIME-RE
 url_code: ""
 url_pdf: ""

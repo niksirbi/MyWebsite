@@ -21,6 +21,7 @@ slides:
 summary: Neurizons is a biennial neuroscience conference organized by students of the IMPRS for Neurosciences in Göttingen, Germany.
 tags:
 - collaborative
+- include
 title: Neurizons
 url_code: ""
 url_pdf: ""

@@ -9,6 +9,7 @@ slides:
 summary: My main PhD project. Stay tuned for the upcoming preprint.
 tags:
 - research
+- include
 title: fMRI mapping of anesthesia-induced burst-suppression
 url_code: "https://github.com/niksirbi/pcarpet"
 url_pdf: ""

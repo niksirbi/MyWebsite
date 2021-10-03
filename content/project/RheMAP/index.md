@@ -16,6 +16,7 @@ links:
 summary: Non-linear warps between common rhesus macaque brain templates. 
 tags:
 - collaborative
+- include
 title: RheMAP
 url_code: ""
 url_pdf: ""

@@ -17,6 +17,7 @@ slides:
 summary: Work done for my MSc thesis and during the early stages of my PhD.
 tags:
 - research
+- include
 title: Temporal stability of fMRI in medetomidine-anesthetized rats
 url_code: ""
 url_pdf: ""
