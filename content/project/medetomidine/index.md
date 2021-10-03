@@ -12,7 +12,7 @@ links:
 - icon:
   icon_pack:
   name: Data
-  url: https://openneuro.org/datasets/ds001981/versions/1.0.3
+  url: https://openneuro.org/datasets/ds001981
 slides:
 summary: Work done for my MSc thesis and during the early stages of my PhD.
 tags:

@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'Cerebral Cortex, bhaa280'
+publication: 'Cerebral Cortex'
 publication_short: "Cereb. Cortex"
 publication_types:
 - "2"
@@ -30,7 +30,7 @@ tags:
 title: 'Increased Callosal Connectivity in Reeler Mice Revealed by Brain-Wide Input Mapping of VIP Neurons in Barrel Cortex'
 url_code: ""
 url_dataset: ""
-url_pdf: "https://academic.oup.com/cercor/advance-article-pdf/doi/10.1093/cercor/bhaa280/34141603/bhaa280.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

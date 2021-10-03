@@ -1,24 +1,24 @@
 ---
 authors:
 - admin
-bio: Neuroscience PhD student trying to peak into the effects of anesthesia on the brain.
+bio: Neuroscienctist, imaging the anesthetized brain.
 education:
   courses:
   - course: PhD in Neuroimaging
     institution: German Primate Center
-    year: 2017-present
+    year: May 2017 -- Sep 2021
   - course: MSc in Neuroscience
     institution: University of Göttingen
-    year: 2015-2017
-  - course: Doctor of Medicine (MD)
+    year: Sep 2015 -- Apr 2017
+  - course: Medical Degree
     institution: Aristotle University of Thessaloniki
-    year: 2009-2015
+    year: Sep 2009 - Jul 2015
 email: "nsirmpilatze@dpz.eu"
 interests:
 - Neuroscience
-- Neuroimaging (fMRI)
+- Neuroimaging
 - Anesthesia
-- Swing music and dances
+- Open science
 name: Nikoloz Sirmpilatze
 organizations:
 - name: German Primate Center
@@ -27,7 +27,7 @@ organizations:
   url: "https://www.gpneuro.uni-goettingen.de/"
 - name: University of Göttingen 
   url: "http://www.uni-goettingen.de/"
-role: PhD student
+role: Postdoctoral Researcher
 social:
 - icon: twitter
   icon_pack: fab
@@ -44,6 +44,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
-I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.
+My name is Nikoloz (Niko) Sirmpilatze and I am a postdoctoral researcher at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the German Primate Center in Göttingen, Germany. I am interested in the effects of anesthesia on brain function -- a topic that I explore via functional Magnetic Resonance Imaging (fMRI) and in vivo 2-photon calcium imaging. I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
+I am a strong proponent of open and collaborative science. In my free time I enjoy dancing to swing music and playing the saxophone.
 
