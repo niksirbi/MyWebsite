@@ -1,3 +1,5 @@
 # ignore an entire directory
 /public/
 .Rproj.user
+.RData
+.Rhistory
