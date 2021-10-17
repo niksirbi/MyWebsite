@@ -21,6 +21,10 @@ image:
 links:
 - name: View on bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.10.15.464515
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/niksirbi/pcarpet
 projects:
 - BS
 publication: ""
@@ -40,7 +44,7 @@ tags:
 - anesthesia
 - sevoflurane
 title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
-url_code: https://github.com/niksirbi/pcarpet
+url_code: ""
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
