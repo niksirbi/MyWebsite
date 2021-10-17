@@ -5,16 +5,20 @@ image:
   caption:
   focal_point: Smart
 links:
+- icon:
+  icon_pack:
+  name: Preprint
+  url: https://www.biorxiv.org/content/10.1101/2021.10.15.464515
 - icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/niksirbi/pcarpet
 slides:
-summary: My main PhD project. Stay tuned for the upcoming preprint.
+summary: My main PhD project.
 tags:
 - research
 - include
-title: fMRI mapping of anesthesia-induced burst-suppression
+title: fMRI mapping of anesthesia-induced burst-suppression across species
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -22,5 +26,4 @@ url_video: ""
 ---
 
 ## Summary
-Deeply anesthetized and comatose states are often accompanied by a distinctive pattern of electroencephalographic activity called **burst-suppression**. This pattern’s underlying mechanism and
-functional significance remain largely unknown. I explore how burst-suppression manifests itself in fMRI data obtained from from both humans and animals (non-human primates, rats).
+During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states.
