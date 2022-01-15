@@ -18,13 +18,13 @@ subtitle = ""
   icon = "code"
   icon_pack = "fa"
   name = "Programming"
-  description = "**Python**, Bash, R, git"
+  description = "**Python**, Bash, R, git, LaTeX"
   
 [[feature]]
   icon = "brain"
   icon_pack = "fa"
   name = "Neuroimaging software"
-  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer"  
+  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer, Connectome Workbench"  
   
 [[feature]]
   icon = "language"

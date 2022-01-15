@@ -25,24 +25,21 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/niksirbi/pcarpet
+- icon: youtube
+  icon_pack: fab
+  name: Talk
+  url: https://youtu.be/MoJ3HNUT4Lc
 projects:
 - BS
-publication: ""
-publication_short:
+publication: "bioRxiv"
+publication_short: "bioRxiv"
 publication_types:
 - "3"
 publishDate: "2021-10-16T00:00:00Z"
 slides: 
 summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
-- fMRI
-- isoflurane
-- rat
-- macaque
-- marmoset
-- human
-- anesthesia
-- sevoflurane
+- preprint
 title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
 url_code: ""
 url_dataset: ""

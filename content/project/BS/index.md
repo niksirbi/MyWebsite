@@ -13,6 +13,10 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/niksirbi/pcarpet
+- icon: youtube
+  icon_pack: fab
+  name: Talk
+  url: https://youtu.be/MoJ3HNUT4Lc
 slides:
 summary: My main PhD project.
 tags:
