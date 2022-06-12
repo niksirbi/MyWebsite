@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.2794e38b9904b848073ba5a1528256ce.css">
+  <link rel="stylesheet" href="/css/academic.min.4390d0457e1b0703e8e420f339d2a5f4.css">
 
   
 
@@ -272,6 +272,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -563,60 +592,35 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<pre><code class="language-python">from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+      <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> IPython.core.display <span style="color:#f92672">import</span> Image
+Image(<span style="color:#e6db74">&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;</span>)
+</code></pre></div><p><img src="./academic_0_0.png" alt="png"></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Welcome to Academic!&#34;</span>)
+</code></pre></div><pre><code>Welcome to Academic!
 </code></pre>
-
-<p><img src="./academic_0_0.png" alt="png" /></p>
-
-<pre><code class="language-python">print(&quot;Welcome to Academic!&quot;)
-</code></pre>
-
-<pre><code>Welcome to Academic!
-</code></pre>
-
 <h2 id="install-python-and-jupyter">Install Python and Jupyter</h2>
-
-<p><a href="https://www.anaconda.com/distribution/#download-section" target="_blank">Install Anaconda</a> which includes Python 3 and Jupyter notebook.</p>
-
+<p><a href="https://www.anaconda.com/distribution/#download-section">Install Anaconda</a> which includes Python 3 and Jupyter notebook.</p>
 <p>Otherwise, for advanced users, install Jupyter notebook with <code>pip3 install jupyter</code>.</p>
-
-<h2 id="create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post">Create a new blog post <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post" target="_blank">as usual</a></h2>
-
+<h2 id="create-a-new-blog-post-as-usualhttpssourcethemescomacademicdocsmanaging-contentcreate-a-blog-post">Create a new blog post <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post">as usual</a></h2>
 <p>Run the following commands in your Terminal, substituting <code>&lt;MY_WEBSITE_FOLDER&gt;</code> and <code>my-post</code> with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:</p>
-
-<pre><code class="language-bash">cd &lt;MY_WEBSITE_FOLDER&gt;
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd &lt;MY_WEBSITE_FOLDER&gt;
 hugo new  --kind post post/my-post
 cd &lt;MY_WEBSITE_FOLDER&gt;/content/post/my-post/
-</code></pre>
-
-<h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
-
+</code></pre></div><h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
 <p>Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (<em>New &gt; Python Notebook</em>) or upload a notebook.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">jupyter notebook
+</code></pre></div><h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir<span style="color:#f92672">=</span>.
 
-<pre><code class="language-bash">jupyter notebook
-</code></pre>
-
-<h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
-
-<pre><code class="language-bash">jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
+<span style="color:#75715e"># Copy the contents of Untitled.md and append it to index.md:</span>
 cat Untitled.md | tee -a index.md
 
-# Remove the temporary file:
+<span style="color:#75715e"># Remove the temporary file:</span>
 rm Untitled.md
-</code></pre>
-
-<h2 id="edit-your-post-metadata">Edit your post metadata</h2>
-
-<p>Open <code>index.md</code> in your text editor and edit the title etc. in the <a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank">front matter</a> according to your preference.</p>
-
-<p>To set a <a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank">featured image</a>, place an image named <code>featured</code> into your post&rsquo;s folder.</p>
-
-<p>For other tips, such as using math, see the guide on <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank">writing content with Academic</a>.</p>
+</code></pre></div><h2 id="edit-your-post-metadata">Edit your post metadata</h2>
+<p>Open <code>index.md</code> in your text editor and edit the title etc. in the <a href="https://sourcethemes.com/academic/docs/front-matter/">front matter</a> according to your preference.</p>
+<p>To set a <a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image">featured image</a>, place an image named <code>featured</code> into your post&rsquo;s folder.</p>
+<p>For other tips, such as using math, see the guide on <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">writing content with Academic</a>.</p>
 
     </div>
 
@@ -660,9 +664,9 @@ rm Untitled.md
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/">Nikoloz Sirmpilatze</a></h5>
-      <h6 class="card-subtitle">PhD student</h6>
-      <p class="card-text" itemprop="description">Neuroscience PhD student trying to peak into the effects of anesthesia on the brain.</p>
+      <h5 class="card-title" itemprop="name"><a href="">Nikoloz Sirmpilatze</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+      <p class="card-text" itemprop="description">Neuroscienctist, imaging the anesthetized brain.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
@@ -841,16 +845,6 @@ rm Untitled.md
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-        
-  </p>
   
 
   <p class="powered-by">

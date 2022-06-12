@@ -5,26 +5,30 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-512.png</url>
+      <url>img/icon-512.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
     
     <item>
-      <title>fMRI signatures of anesthesia-induced Burst Suppression</title>
+      <title>AFIDs-macaca</title>
+      <link>/project/afids-macaca/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/afids-macaca/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Establishing accurate spatial correspondences across brains is a fundamental step in neuroscience research. Current methods use sophisticated algorithms to perform registrations between brains, providing a mapping between modalities, subjects, template spaces, and even different species. However, the accuracy of these mappings varies widely depending on factors such as the image quality, the registration algorithm, and its parameters. To quantify registration accuracy, a point-based set of 32 anatomical landmarks, termed anatomical fiducials (&lt;strong&gt;AFIDs&lt;/strong&gt;), has recently been described and validated for human magnetic resonance imaging (MRI) datasets (&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24693&#34;&gt;Lau et al., 2019&lt;/a&gt;). The &lt;strong&gt;AFIDs-macaca&lt;/strong&gt; project seeks to bridge the gap between human and animal models in neuroscience research by extending the &lt;strong&gt;AFIDs&lt;/strong&gt; framework to a widely used non-human primate model, the macaques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fMRI mapping of anesthesia-induced burst-suppression across species</title>
       <link>/project/bs/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/bs/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Deeply anesthetized and comatose states are often accompanied by a distinctive pattern of
-electroencephalographic activity called &lt;strong&gt;Burst Suppression&lt;/strong&gt; (BS). This pattern’s underlying mechanism and
-functional significance remain largely unknown. I explore how BS manifests itself in fMRI data
-obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states.&lt;/p&gt;
 </description>
     </item>
     
@@ -33,14 +37,9 @@ obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
       <link>/project/rhemap/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/project/rhemap/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;The RheMAP project provides access to a set of pre-calculated non-linear registrations between some of the most commonly used rhesus macaque brain templates (D99, INIA19, MNI macaque, NMT, Yerkes19). The &lt;a href=&#34;https://github.com/PRIME-RE/RheMAP&#34; target=&#34;_blank&#34;&gt;repository&lt;/a&gt; contains the code used to calculate the registration warps and example code that demonstrates how to use the resulting warp files to remap data between different template spaces. Non-linear registration warps were generated using &lt;a href=&#34;http://stnava.github.io/ANTs/&#34; target=&#34;_blank&#34;&gt;ANTs&lt;/a&gt; and can directly be downloaded from &lt;a href=&#34;https://zenodo.org/record/3668510&#34; target=&#34;_blank&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The RheMAP project provides access to a set of pre-calculated non-linear registrations between some of the most commonly used rhesus macaque brain templates (D99, INIA19, MNI macaque, NMT, Yerkes19). The &lt;a href=&#34;https://github.com/PRIME-RE/RheMAP&#34;&gt;repository&lt;/a&gt; contains the code used to calculate the registration warps and example code that demonstrates how to use the resulting warp files to remap data between different template spaces. Non-linear registration warps were generated using &lt;a href=&#34;http://stnava.github.io/ANTs/&#34;&gt;ANTs&lt;/a&gt; and can directly be downloaded from &lt;a href=&#34;https://zenodo.org/record/3668510&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
-
 &lt;p&gt;Nikoloz Sirmpilatze &amp;amp; P. Christiaan Klink.&lt;/p&gt;
 </description>
     </item>
@@ -50,10 +49,7 @@ obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
       <link>/project/medetomidine/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/project/medetomidine/</guid>
-      <description>
-
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Medetomidine has become a popular choice for anesthetizing rats during long-lasting sessions of blood-oxygen-level dependent (BOLD) functional magnetic resonance imaging (fMRI). Despite this, it has not yet been thoroughly established how commonly reported fMRI readouts evolve over several hours of medetomidine anesthesia and how they are affected by the precise timing, dose, and route of administration. We used four different protocols of medetomidine administration to anesthetize rats for up to six hours and repeatedly evaluated somatosensory stimulus-evoked BOLD responses and resting state functional connectivity. We found that the temporal evolution of fMRI readouts strongly depended on the method of administration. Intravenous administration of a medetomidine bolus (0.05 mg/kg), combined with a subsequent continuous infusion (0.1 mg/kg/h), led to temporally stable measures of stimulus-evoked activity and functional connectivity throughout the anesthesia. Deviating from the above protocol—by omitting the bolus, lowering the medetomidine dose, or using the subcutaneous route—compromised the stability of these measures in the initial two-hour period. We conclude that both an appropriate protocol of medetomidine administration and a suitable timing of fMRI experiments are crucial for obtaining consistent results. These factors should be considered for the design and interpretation of future rat fMRI studies.&lt;/p&gt;
 </description>
     </item>
@@ -63,11 +59,8 @@ obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
       <link>/project/pyrat/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/project/pyrat/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;PyRat_fMRI can get you from a 4D NIFTI file to an activation map in under 1 minute. It is meant for a quick inspection of activation maps, &lt;strong&gt;NOT&lt;/strong&gt; for formal analysis. See the &lt;a href=&#34;https://github.com/niksirbi/PyRat_fMRI&#34; target=&#34;_blank&#34;&gt;repository&lt;/a&gt; for more details.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;PyRat_fMRI can get you from a 4D NIFTI file to an activation map in under 1 minute. It is meant for a quick inspection of activation maps, &lt;strong&gt;NOT&lt;/strong&gt; for formal analysis. See the &lt;a href=&#34;https://github.com/niksirbi/PyRat_fMRI&#34;&gt;repository&lt;/a&gt; for more details.&lt;/p&gt;
 </description>
     </item>
     
@@ -76,42 +69,8 @@ obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
       <link>/project/prime-re/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/project/prime-re/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. PRIME-RE is maintained by members of the &lt;a href=&#34;http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html&#34; target=&#34;_blank&#34;&gt;PRIME-DE consortium&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Summa cum Liesel</title>
-      <link>/project/scl/</link>
-      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/project/scl/</guid>
-      <description>
-
-&lt;h2 id=&#34;about-the-blog&#34;&gt;About the blog&lt;/h2&gt;
-
-&lt;p&gt;Summa cum Liesel is a blog for sharing PhD experiences, advice, and of course – science. The blog is mostly aimed at Life Sciences PhDs living or studying in Göttingen. However, most of the content is applicable to any PhD student in Germany, in the world, or anyone interested in biology for that matter. The goal is to make a platform for students to communicate freely and openly about any topic related to PhD life. This includes showcasing our science, sharing practical knowledge and expertise we have accumulated (including the difficulties), and also – just getting to know each other better.&lt;/p&gt;
-
-&lt;p&gt;If you’re a student, alumnus, post-academic professional, or someone else interesting, and you want to try your hand at writing a post – contact us at &lt;strong&gt;contact@summacumliesel.com&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Don’t be discouraged by lack of writing experience. It doesn’t need to be (and shouldn’t be) anything fancy! Just a short –max 1500 words– conversion of thoughts to text. There’s also editing included.&lt;/p&gt;
-
-&lt;h2 id=&#34;blog-managers&#34;&gt;Blog managers&lt;/h2&gt;
-
-&lt;p&gt;The blog is managed by a group of PhD candidates from IMPRS Neuroscience program:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tal Dankovich - chief editor (and stick figures)&lt;/li&gt;
-&lt;li&gt;Linda Olsthoorn - editor&lt;/li&gt;
-&lt;li&gt;Ronja Markworth - editor&lt;/li&gt;
-&lt;li&gt;Myrto Panopoulou - editor, photography&lt;/li&gt;
-&lt;li&gt;Nikoloz Sirmpilatze, webpage design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Cover art by Yi-Tse Liu, logo by Nikoloz Sirmpilatze&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. PRIME-RE is maintained by members of the &lt;a href=&#34;http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html&#34;&gt;PRIME-DE consortium&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -120,13 +79,9 @@ obtained from from both humans and animals (non-human primates, rats).&lt;/p&gt;
       <link>/project/neurizons/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       <guid>/project/neurizons/</guid>
-      <description>
-
-&lt;h2 id=&#34;about-neurizons&#34;&gt;About Neurizons&lt;/h2&gt;
-
-&lt;p&gt;Neurizons is a multidisciplinary neuroscience conference organized by the students of the &lt;a href=&#34;https://www.gpneuro.uni-goettingen.de/&#34; target=&#34;_blank&#34;&gt;International Max Planck Research School (IMPRS) for Neurosciences&lt;/a&gt;, in Göttingen. I have been part of the organizing committee since 2017 and have mainly taken care of the conference&amp;rsquo;s graphic design.&lt;/p&gt;
-
-&lt;p&gt;Neurizons 2020 took place online, due to the global Covid-19 pandemic. I took part in migrating the conference into a virtual platform - &lt;a href=&#34;https://www.crowdcast.io/&#34; target=&#34;_blank&#34;&gt;crowdcast&lt;/a&gt;. You can read about my main take-aways from this experience in this &lt;a href=&#34;https://twitter.com/niksirbi/status/1280875270510125056&#34; target=&#34;_blank&#34;&gt;twitter thread&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;about-neurizons&#34;&gt;About Neurizons&lt;/h2&gt;
+&lt;p&gt;Neurizons is a multidisciplinary neuroscience conference organized by the students of the &lt;a href=&#34;https://www.gpneuro.uni-goettingen.de/&#34;&gt;International Max Planck Research School (IMPRS) for Neurosciences&lt;/a&gt;, in Göttingen. I have been part of the organizing committee since 2017 and have mainly taken care of the conference&amp;rsquo;s graphic design.&lt;/p&gt;
+&lt;p&gt;Neurizons 2020 took place online, due to the global Covid-19 pandemic. I took part in migrating the conference into a virtual platform - &lt;a href=&#34;https://www.crowdcast.io/&#34;&gt;crowdcast&lt;/a&gt;. You can read about my main take-aways from this experience in this &lt;a href=&#34;https://twitter.com/niksirbi/status/1280875270510125056&#34;&gt;twitter thread&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

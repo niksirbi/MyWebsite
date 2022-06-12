@@ -5,12 +5,28 @@
     <link>/authors/susann-boretius/</link>
       <atom:link href="/authors/susann-boretius/index.xml" rel="self" type="application/rss+xml" />
     <description>Susann Boretius</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-512.png</url>
+      <url>img/icon-512.png</url>
       <title>Susann Boretius</title>
       <link>/authors/susann-boretius/</link>
     </image>
+    
+    <item>
+      <title>Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents</title>
+      <link>/publication/burst-suppression/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/burst-suppression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lack of astrocytes hinders parenchymal oligodendrocyte precursor cells from reaching a myelinating state in osmolyte-induced demyelination</title>
+      <link>/publication/cpm/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cpm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Increased Callosal Connectivity in Reeler Mice Revealed by Brain-Wide Input Mapping of VIP Neurons in Barrel Cortex</title>

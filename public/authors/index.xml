@@ -5,21 +5,468 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-512.png</url>
+      <url>img/icon-512.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
     
     <item>
+      <title>The PRIMatE Data and Resource Exchange (PRIME-DRE) Global Collaboration Workshop and Consortium</title>
+      <link>/authors/the-primate-data-and-resource-exchange-prime-dre-global-collaboration-workshop-and-consortium/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/the-primate-data-and-resource-exchange-prime-dre-global-collaboration-workshop-and-consortium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 11:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;My name is Nikoloz (Niko) Sirmpilatze and I am a PhD student at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34; target=&#34;_blank&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. My PhD project focuses on the effects of anesthesia on brain function - a topic that I explore via functional Magnetic Resonance Imaging (fMRI). I collect and analyze neuroimaging data from multiple mammalian species, including humans, non-human primates and rodents.
-I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate Shag) and have recently picked up the saxophone.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m Nikoloz (Niko) Sirmpilatze, a medical doctor turned neuroscientist. Currently, I work as postdoctoral researcher at the &lt;a href=&#34;https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html&#34;&gt;Functional Imaging Lab&lt;/a&gt; of the German Primate Center in Göttingen, Germany. I study the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Imaging (fMRI) and in vivo 2‐photon calcium imaging. I am particularly interested in the neural activity patterns that arise across various depths of anesthesia, either spontaneously or in reaction to sensory stimulation. In parallel to my research, I support efforts for more open, collaborative, and reproducible science. In my free time I enjoy dancing to swing music and playing the saxophone.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Andreas Ranft</title>
+      <link>/authors/andreas-ranft/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/andreas-ranft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Golkowski</title>
+      <link>/authors/daniel-golkowski/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-golkowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaakko Paasonen</title>
+      <link>/authors/jaakko-paasonen/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jaakko-paasonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judith Mylius</title>
+      <link>/authors/judith-mylius/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/judith-mylius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Baudewig</title>
+      <link>/authors/jurgen-baudewig/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jurgen-baudewig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Ortiz-Rios</title>
+      <link>/authors/michael-ortiz-rios/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-ortiz-rios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olli Gröhn</title>
+      <link>/authors/olli-grohn/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/olli-grohn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rüdiger Ilg</title>
+      <link>/authors/rudiger-ilg/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/rudiger-ilg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susann Boretius</title>
+      <link>/authors/susann-boretius/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/susann-boretius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Brainhack Community</title>
+      <link>/authors/the-brainhack-community/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/the-brainhack-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Messinger</title>
+      <link>/authors/adam-messinger/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/adam-messinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bastien Cagna</title>
+      <link>/authors/bastien-cagna/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/bastien-cagna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Jung</title>
+      <link>/authors/benjamin-jung/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caleb Sponheim</title>
+      <link>/authors/caleb-sponheim/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/caleb-sponheim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cirong Liu</title>
+      <link>/authors/cirong-liu/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/cirong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claude Lepage</title>
+      <link>/authors/claude-lepage/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/claude-lepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Glen</title>
+      <link>/authors/daniel-glen/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-glen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel S. Margulies</title>
+      <link>/authors/daniel-s.-margulies/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-s.-margulies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo A. Garza-Villarreal</title>
+      <link>/authors/eduardo-a.-garza-villarreal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/eduardo-a.-garza-villarreal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry C. Evrard</title>
+      <link>/authors/henry-c.-evrard/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/henry-c.-evrard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Merchant</title>
+      <link>/authors/hugo-merchant/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/hugo-merchant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakob Seidlitz</title>
+      <link>/authors/jakob-seidlitz/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jakob-seidlitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordy Tasserie</title>
+      <link>/authors/jordy-tasserie/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jordy-tasserie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Sein</title>
+      <link>/authors/julien-sein/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/julien-sein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katja Heuer</title>
+      <link>/authors/katja-heuer/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/katja-heuer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kep Kee Loh</title>
+      <link>/authors/kep-kee-loh/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/kep-kee-loh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn Uhrig</title>
+      <link>/authors/lynn-uhrig/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/lynn-uhrig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcello G.P. Rosa</title>
+      <link>/authors/marcello-g.p.-rosa/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/marcello-g.p.-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael P. Milham</title>
+      <link>/authors/michael-p.-milham/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-p.-milham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Christiaan Klink</title>
+      <link>/authors/p.-christiaan-klink/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-christiaan-klink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pamela Garcia-Saldivar</title>
+      <link>/authors/pamela-garcia-saldivar/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/pamela-garcia-saldivar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Taylor</title>
+      <link>/authors/paul-taylor/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Majka</title>
+      <link>/authors/piotr-majka/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/piotr-majka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Austin Benn</title>
+      <link>/authors/r.-austin-benn/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-austin-benn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakshit Dadarwal</title>
+      <link>/authors/rakshit-dadarwal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/rakshit-dadarwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renee Hartig</title>
+      <link>/authors/renee-hartig/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/renee-hartig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Toro</title>
+      <link>/authors/roberto-toro/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/roberto-toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rogier B. Mars</title>
+      <link>/authors/rogier-b.-mars/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/rogier-b.-mars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Giavasis</title>
+      <link>/authors/steven-giavasis/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-giavasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Xu</title>
+      <link>/authors/ting-xu/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ting-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xindi Wang</title>
+      <link>/authors/xindi-wang/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/xindi-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alonso Barrantes-Freer</title>
+      <link>/authors/alonso-barrantes-freer/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/alonso-barrantes-freer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Gocht</title>
+      <link>/authors/andreas-gocht/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/andreas-gocht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Winkler</title>
+      <link>/authors/anne-winkler/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/anne-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Hagel</title>
+      <link>/authors/christian-hagel/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/christian-hagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Stadelmann</title>
+      <link>/authors/christine-stadelmann/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/christine-stadelmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Esser</title>
+      <link>/authors/daniel-esser/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-esser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatima Barbara König</title>
+      <link>/authors/fatima-barbara-konig/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/fatima-barbara-konig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franziska van der Meer</title>
+      <link>/authors/franziska-van-der-meer/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/franziska-van-der-meer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonas Franz</title>
+      <link>/authors/jonas-franz/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jonas-franz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kerstin Wiegand</title>
+      <link>/authors/kerstin-wiegand/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/kerstin-wiegand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanie Lohrberg</title>
+      <link>/authors/melanie-lohrberg/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/melanie-lohrberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronja Handwerker</title>
+      <link>/authors/ronja-handwerker/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ronja-handwerker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torben Ruhwedel</title>
+      <link>/authors/torben-ruhwedel/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/torben-ruhwedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiebke Möbius</title>
+      <link>/authors/wiebke-mobius/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/wiebke-mobius/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -71,262 +518,6 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     </item>
     
     <item>
-      <title>Rakshit Dadarwal</title>
-      <link>/authors/rakshit-dadarwal/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rakshit-dadarwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Susann Boretius</title>
-      <link>/authors/susann-boretius/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/susann-boretius/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adam Messinger</title>
-      <link>/authors/adam-messinger/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/adam-messinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bastien Cagna</title>
-      <link>/authors/bastien-cagna/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/bastien-cagna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benjamin Jung</title>
-      <link>/authors/benjamin-jung/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/benjamin-jung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caleb Sponheim</title>
-      <link>/authors/caleb-sponheim/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/caleb-sponheim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cirong Liu</title>
-      <link>/authors/cirong-liu/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cirong-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claude Lepage</title>
-      <link>/authors/claude-lepage/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/claude-lepage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Glen</title>
-      <link>/authors/daniel-glen/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-glen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel S. Margulies</title>
-      <link>/authors/daniel-s.-margulies/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-s.-margulies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eduardo A. Garza-Villarreal</title>
-      <link>/authors/eduardo-a.-garza-villarreal/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/eduardo-a.-garza-villarreal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Henry C. Evrard</title>
-      <link>/authors/henry-c.-evrard/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/henry-c.-evrard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Merchant</title>
-      <link>/authors/hugo-merchant/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/hugo-merchant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jakob Seidlitz</title>
-      <link>/authors/jakob-seidlitz/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jakob-seidlitz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jordy Tasserie</title>
-      <link>/authors/jordy-tasserie/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jordy-tasserie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julien Sein</title>
-      <link>/authors/julien-sein/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/julien-sein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katja Heuer</title>
-      <link>/authors/katja-heuer/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/katja-heuer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kep Kee Loh</title>
-      <link>/authors/kep-kee-loh/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/kep-kee-loh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lynn Uhrig</title>
-      <link>/authors/lynn-uhrig/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/lynn-uhrig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcello G.P. Rosa</title>
-      <link>/authors/marcello-g.p.-rosa/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/marcello-g.p.-rosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael P. Milham</title>
-      <link>/authors/michael-p.-milham/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-p.-milham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Christiaan Klink</title>
-      <link>/authors/p.-christiaan-klink/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-christiaan-klink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pamela Garcia-Saldivar</title>
-      <link>/authors/pamela-garcia-saldivar/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/pamela-garcia-saldivar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul Taylor</title>
-      <link>/authors/paul-taylor/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-taylor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piotr Majka</title>
-      <link>/authors/piotr-majka/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/piotr-majka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Austin Benn</title>
-      <link>/authors/r.-austin-benn/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-austin-benn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renee Hartig</title>
-      <link>/authors/renee-hartig/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/renee-hartig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roberto Toro</title>
-      <link>/authors/roberto-toro/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/roberto-toro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rogier B. Mars</title>
-      <link>/authors/rogier-b.-mars/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rogier-b.-mars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steven Giavasis</title>
-      <link>/authors/steven-giavasis/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/steven-giavasis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ting Xu</title>
-      <link>/authors/ting-xu/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ting-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xindi Wang</title>
-      <link>/authors/xindi-wang/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/xindi-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium</title>
       <link>/authors/the-primate-data-exchange-prime-de-global-collaboration-workshop-and-consortium/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
@@ -337,7 +528,7 @@ I am passionate about dancing to swing music (Lindy Hop, Charleston, Collegiate 
     <item>
       <title>Juergen Baudewig</title>
       <link>/authors/juergen-baudewig/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/juergen-baudewig/</guid>
       <description></description>
     </item>
