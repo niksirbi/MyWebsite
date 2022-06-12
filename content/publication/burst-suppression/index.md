@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/niksirbi/pcarpet
-- name: Dataset
+- name: Data
   url: https://doi.org/10.5281/zenodo.5565305
 - icon: youtube
   icon_pack: fab

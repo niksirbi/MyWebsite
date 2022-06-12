@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/grandjeanlab/MultiRat
-- name: Dataset
+- name: Data
   url: https://openneuro.org/datasets/ds004114/versions/1.0.0
 projects:
 publication: ""

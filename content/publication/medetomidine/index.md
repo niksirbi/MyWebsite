@@ -7,7 +7,7 @@ authors:
 date: "2019-11-13T00:00:00Z"
 doi: "10.1038/s41598-019-53144-y"
 links:
-- name: Dataset
+- name: Data
   url: https://openneuro.org/datasets/ds001981
 featured: true
 image:
