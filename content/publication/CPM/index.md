@@ -16,7 +16,7 @@ image:
   preview_only: false
 projects:
 publication: 'Acta Neuropathologica Communications'
-publication_short: "acta neuropathol commun"
+publication_short: "Acta Neuropathol Commun"
 publication_types:
 - "2"
 publishDate: "2021-01-12T00:00:00Z"
