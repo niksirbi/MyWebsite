@@ -11,35 +11,35 @@ authors:
 - Rüdiger Ilg
 - Olli Gröhn
 - Susann Boretius
-date: "2021-10-16T00:00:00Z"
-doi: "10.1101/2021.10.15.464515"
+date: "2022-05-24T00:00:00Z"
+doi: "10.7554/eLife.74813"
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 links:
-- name: View on bioRxiv
-  url: https://www.biorxiv.org/content/10.1101/2021.10.15.464515
 - icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/niksirbi/pcarpet
+- name: Dataset
+  url: https://zenodo.org/record/651088
 - icon: youtube
   icon_pack: fab
   name: Talk
   url: https://youtu.be/MoJ3HNUT4Lc
 projects:
 - BS
-publication: "bioRxiv"
-publication_short: "bioRxiv"
+publication: "eLife"
+publication_short: "eLife"
 publication_types:
-- "3"
-publishDate: "2021-10-16T00:00:00Z"
+- "2"
+publishDate: "2022-05-24T00:00:00Z"
 slides: 
 summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
-- preprint
+- published
 title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
 url_code: ""
 url_dataset: ""
