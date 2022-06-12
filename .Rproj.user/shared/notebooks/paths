@@ -1,3 +1,4 @@
+/home/niko/Code/MyWebsite/.gitignore="D573F0D2"
 /home/niko/Code/MyWebsite/config/_default/menus.toml="58A9E88F"
 /home/niko/Code/MyWebsite/content/courses/_index.md="4789FD85"
 /home/niko/Code/MyWebsite/content/courses/example/_index.md="E8C15ACF"
@@ -31,6 +32,7 @@
 /home/niko/Code/MyWebsite/content/talk/_index.md="B461ECF5"
 /home/niko/Code/MyWebsite/content/talk/douglas/index.md="A583F2FA"
 /home/niko/Code/MyWebsite/content/talk_templates/example/index.md="F2ED0218"
+/home/niko/Code/MyWebsite/themes/hugo-academic/layouts/publication/single.html="4784FDF4"
 /home/niko/Code/djnavarro.github.io/docs/resume/danielle-navarro-verbose-resume.Rmd="92A7C8B7"
 /home/niko/Code/djnavarro.github.io/docs/resume/index.Rmd="EF685A3F"
 /home/niko/Code/djnavarro.github.io/docs/resume/nikoloz-sirmpilatze-industry-resume.Rmd="A4CF4C05"

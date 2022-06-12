@@ -3,35 +3,7 @@ abstract: Neuroimaging non-human primates (NHPs) is a growing, yet highly specia
 authors:
 - Adam Messinger
 - admin
-- Katja Heuer
-- Kep Kee Loh
-- Rogier B. Mars
-- Julien Sein
-- Ting Xu
-- Daniel Glen
-- Benjamin Jung
-- Jakob Seidlitz
-- Paul Taylor
-- Roberto Toro
-- Eduardo A. Garza-Villarreal
-- Caleb Sponheim
-- Xindi Wang
-- R. Austin Benn
-- Bastien Cagna
-- Rakshit Dadarwal
-- Henry C. Evrard
-- Pamela Garcia-Saldivar
-- Steven Giavasis
-- Renee Hartig
-- Claude Lepage
-- Cirong Liu
-- Piotr Majka
-- Hugo Merchant
-- Michael P. Milham
-- Marcello G.P. Rosa
-- Jordy Tasserie
-- Lynn Uhrig
-- Daniel S. Margulies
+- "..."
 - P. Christiaan Klink
 date: "2021-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neuroimage.2020.117519"

@@ -24,7 +24,7 @@ links:
   name: Code
   url: https://github.com/niksirbi/pcarpet
 - name: Dataset
-  url: https://zenodo.org/record/651088
+  url: https://doi.org/10.5281/zenodo.5565305
 - icon: youtube
   icon_pack: fab
   name: Talk
