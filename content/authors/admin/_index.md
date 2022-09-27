@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Neuroscienctist, imaging the anesthetized brain.
+bio: medical doctor turned neuroscientist and image analyst.
 education:
   courses:
   - course: PhD in Neuroimaging
@@ -13,21 +13,22 @@ education:
   - course: Medical Degree
     institution: Aristotle University of Thessaloniki
     year: Sep 2009 - Jul 2015
-email: "nsirmpilatze@dpz.eu"
+email: "n.sirmpilatze@ucl.ac.uk"
 interests:
 - Neuroscience
 - Neuroimaging
 - Anesthesia
 - Open science
+- Software
 name: Nikoloz Sirmpilatze
 organizations:
-- name: German Primate Center
-  url: "https://www.dpz.eu"
-- name: IMPRS for Neurosciences
-  url: "https://www.gpneuro.uni-goettingen.de/"
-- name: University of Göttingen 
-  url: "http://www.uni-goettingen.de/"
-role: Postdoctoral Researcher
+- name: Sainsbury Wellcome Centre
+  url: "https://www.sainsburywellcome.org/web/"
+- name: Gatsby Computational Neuroscience Unit
+  url: "https://www.ucl.ac.uk/gatsby/"
+- name: University College London (UCL)
+  url: "https://www.ucl.ac.uk/"
+role: Research Software Engineer
 social:
 - icon: twitter
   icon_pack: fab
@@ -44,5 +45,9 @@ user_groups:
 - Visitors
 ---
 
-I'm Nikoloz (Niko) Sirmpilatze, a medical doctor turned neuroscientist. Currently, I work as postdoctoral researcher at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the German Primate Center in Göttingen, Germany. I study the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Imaging (fMRI) and in vivo 2‐photon calcium imaging. I am particularly interested in the neural activity patterns that arise across various depths of anesthesia, either spontaneously or in reaction to sensory stimulation. In parallel to my research, I support efforts for more open, collaborative, and reproducible science. In my free time I enjoy dancing to swing music and playing the saxophone.
+I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+
+I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
+
+I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
 
