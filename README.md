@@ -1,4 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/816336ea-4f3a-4d58-ae0e-5a3245a61727/deploy-status)](https://app.netlify.com/sites/mystifying-swanson-a9e988/deploys)
+
+> [!warning]
+> This repository has been archived. My personal website is now built with [quarto](https://quarto.org/) and the source is hosted at https://github.com/niksirbi/niksirbi.github.io
+
 # MyWebsite
 This repository holds the source files for my personal website https://www.nikosirmpilatze.com.
 
